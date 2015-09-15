@@ -1,0 +1,24 @@
+body {
+  background: -webkit-linear-gradient(45deg, red, #666666);
+  background: linear-gradient(45deg, red, #666666);
+}
+
+.content-navigation {
+  border-color: #3bbfce;
+  color: #2ca2af;
+}
+
+.content-navigation .border {
+  padding: 8px;
+  margin: 8px;
+  border: 5px solid #3bbfce;
+}
+
+h2 {
+  color: red;
+  border: 5px solid #CCCCCC;
+}
+span {
+  color: green;
+  font-size: 70px;
+}

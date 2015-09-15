@@ -1,0 +1,19 @@
+@import "includes/settings";
+
+body {
+  background: linear-gradient(45deg, red, #666666);
+}
+.content-navigation {
+  border-color: $blue;
+  color: darken($blue, 9%);
+  .border {
+    padding: $margin / 2;
+    margin: $margin / 2;
+    border: 5px solid $blue;
+  }
+}
+
+h2 {
+  color: red;
+  border: 5px solid #CCCCCC;
+}
